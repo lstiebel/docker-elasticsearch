@@ -1,0 +1,3 @@
+elasticsearch
+boto3
+python_dateutil
